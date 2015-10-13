@@ -6,6 +6,7 @@ import android.hardware.Camera;
 import android.util.DisplayMetrics;
 import android.util.Log;
 import android.util.TypedValue;
+import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
 
